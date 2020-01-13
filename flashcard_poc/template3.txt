@@ -1,0 +1,39 @@
+Here are a couple of image examples: an image:images/smallnew.png[]
+example inline image followed by an example block image:
+
+image::images/tiger.png[Tiger image]
+
+Here's a table:
+
+[width="60%",options="header"]
+|==============================================
+| Option          | Description
+| -a 'USER GROUP' | Add 'USER' to 'GROUP'.
+| -R 'GROUP'      | Disables access to 'GROUP'.
+|==============================================
+
+Two spaces indent aparently matter
+
+  Two spaces indent aparently matter
+  
+*bold text*                 (boldface font)
+_emphasized text_           (normally italics)
+'emphasized text'
++monospaced text+           (proportional font)
+`monospaced text`           (inline literal passthrough)
+
+http:www.panchul.us[something]
+
+===============================================
+  Some example goes here...fas
+  Some example goes here...fas
+  Some examplddde goes here...fas
+  Some example goes here...fas
+===============================================
+
+-----------------------------------
+Some example goes here...fas
+Some example goes here...fas
+Some examplddde goes here...fas
+Some example goes here...fas
+-----------------------------------
